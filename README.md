@@ -16,9 +16,16 @@ Probleme in C#-Logik übertragen.
 
 
 
-Arbeitspakete für 20.10.2023
-[] Portfolio Modul 319 
-[] Programmierprojekt Mängelrüge 
-[] Portfolio 412
+# Arbeitspakete für 20.10.2023
+[x] Portfolio Modul 319 
+[x] Programmierprojekt Mängelrüge 
+[x] Portfolio 431
 
-Text 50 wörter lernsitzung reflektieren
+In dieser Woche nach den Herbstferien habe ich sehr fest an meinem Portfolio 431 gearbeitet. Dananch habe ich mein Portfolio 319 weitergeführt und mich informiert damit ich das Portfolio korrekt abgeben kann. Währenddessen habe ich mit meiner Gruppe Fragen über unser Projekt «Mängelrüge» geklärt und besprochen wie wir weiter gehen werden. (52 Wörter)
+
+# Arbeitspakete für 27.10.2023 
+[] Programmierprojekt Mängelrüge fragen klären 
+[] Programmierprojekt Mängelrüge mit Gruppe beginnen/weiterführen 
+[] Einen kleinen Code schreiben mit Listen und Arrays. (Notenschnittberechner) 
+
+
