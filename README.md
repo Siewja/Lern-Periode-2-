@@ -30,8 +30,9 @@ In dieser Woche nach den Herbstferien habe ich sehr fest an meinem Portfolio 431
 
 In dieser Woche habe ich an meinem Portfolio 319 weiter gearbeitet. An diesem Portfolio konnte ich die bereits 2 Handlungsziele beenden, mit Beschreibung der Handlungsziele und Beispiele dessen. Ebenfalls habe ich überprüft dass das Layout der Fertigen Handlungsziele stimmen und übersichtlich sind. Ich habe zur sicherheit nochmals die Kriterien angeschaut und die fertigen Handlungsziele darauf überprüft. (54 Wörter)
 
-# Arbeitspakete für 01.11.2023 
-- [ ] Programmierprojekt Mängelrüge fragen klären 
-- [ ] Programmierprojekt Mängelrüge mit Gruppe beginnen/weiterführen 
+# Arbeitspakete für 03.11.2023 
+- [x] Programmierprojekt Mängelrüge fragen klären 
+- [x] Programmierprojekt Mängelrüge mit Gruppe beginnen/weiterführen 
 - [ ] Kleines Projekt starten
 
+In dieser Woche habe ich mein Portfolio 319 abgeschlossen. Viel Zeit habe ich in under neues Gruppenprojekt Mängelrüge gesteckt. Wir haben eine Planung angefangen wie wir die nächsten Paar Termine weiter machen. Zudem haben wir eine Email an undere Kundin (Frau Klink) geschrieben um einen Termin mit Ihr zu vereinbaren. Wir haben die Aufgaben von dem Projekt verteilt und angefangen unsere eigenen Aufgaben genäuer anzuschauen. Meine Aufgabe ist es ein Server mit HTML und CSS zu starten damit man damit Forms und PDF's (etc) erstellen kann. (76 Wörter)
