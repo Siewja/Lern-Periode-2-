@@ -35,4 +35,10 @@ In dieser Woche habe ich an meinem Portfolio 319 weiter gearbeitet. An diesem Po
 - [x] Programmierprojekt Mängelrüge mit Gruppe beginnen/weiterführen 
 - [ ] Kleines Projekt starten
 
-In dieser Woche habe ich mein Portfolio 319 abgeschlossen. Viel Zeit habe ich in under neues Gruppenprojekt Mängelrüge gesteckt. Wir haben eine Planung angefangen wie wir die nächsten Paar Termine weiter machen. Zudem haben wir eine Email an undere Kundin (Frau Klink) geschrieben um einen Termin mit Ihr zu vereinbaren. Wir haben die Aufgaben von dem Projekt verteilt und angefangen unsere eigenen Aufgaben genäuer anzuschauen. Meine Aufgabe ist es ein Server mit HTML und CSS zu starten damit man damit Forms und PDF's (etc) erstellen kann. (76 Wörter)
+In dieser Woche habe ich mein Portfolio 319 abgeschlossen. Viel Zeit habe ich in under neues Gruppenprojekt Mängelrüge gesteckt. Wir haben eine Planung angefangen wie wir die nächsten Paar Termine weiter machen. Zudem haben wir eine Email an undere Kundin (Frau Klink) geschrieben um einen Termin mit Ihr zu vereinbaren. Wir haben die Aufgaben von dem Projekt verteilt und angefangen unsere eigenen Aufgaben genäuer anzuschauen. Meine Aufgabe ist es ein Server mit HTML und CSS zu starten damit man damit Forms und PDF's (etc) erstellen kann. Unsere Arbeit kann man auf unserem geteiltem GitHub einsehen. (85 Wörter)
+
+# Arbeitspakete für 03.11.2023 
+- [ ] Programmierprojekt Mängelrüge mit Gruppe/ fragen klären / Planung
+- [ ] Programmierprojekt HTML/CSS
+- [ ] Kleines Projekt starten
+- [ ] Modul fragen klären
