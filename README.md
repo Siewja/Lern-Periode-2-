@@ -6,6 +6,7 @@ Jamie Ryan Siewerdt
 
 Leit-Satz
 In dieser Lernperiode möchte ich mich mehr mit den Basics von C# und dann den weiteren Funktionen auseinander setzen, damit ich in den Nächsten Modulen mehr zurechtkomme. D.h. Ich möchte mich mehr mit dem Modul 319 und allen weiteren Programmiermodule. Die ersten paar Wochen möchte ich an meinem Programmierprojekt "Mängelrüge" arbeiten, dannach möchte ich mir ein Projekt überlegen welches mir hilft mehr in das Programmieren reinzukommen. 
+Zudem möchte ich WinForms kennenlernen. 
 
 Beachten Sie dabei, welche Programmier-Techniken Sie am Ende der LP-2 beherrschen sollten:
 
@@ -37,8 +38,19 @@ In dieser Woche habe ich an meinem Portfolio 319 weiter gearbeitet. An diesem Po
 
 In dieser Woche habe ich mein Portfolio 319 abgeschlossen. Viel Zeit habe ich in under neues Gruppenprojekt Mängelrüge gesteckt. Wir haben eine Planung angefangen wie wir die nächsten Paar Termine weiter machen. Zudem haben wir eine Email an undere Kundin (Frau Klink) geschrieben um einen Termin mit Ihr zu vereinbaren. Wir haben die Aufgaben von dem Projekt verteilt und angefangen unsere eigenen Aufgaben genäuer anzuschauen. Meine Aufgabe ist es ein Server mit HTML und CSS zu starten damit man damit Forms und PDF's (etc) erstellen kann. Unsere Arbeit kann man auf unserem geteiltem GitHub einsehen. (85 Wörter)
 
-# Arbeitspakete für 03.11.2023 
-- [ ] Programmierprojekt Mängelrüge mit Gruppe/ fragen klären / Planung
-- [ ] Programmierprojekt HTML/CSS
-- [ ] Kleines Projekt starten
-- [ ] Modul fragen klären
+# Arbeitspakete für 10.11.2023 
+- [x] Programmierprojekt Mängelrüge mit Gruppe/ fragen klären / Planung
+- [x] Programmierprojekt HTML/CSS
+- [x] Kleines Projekt starten
+- [x] Modul fragen klären
+
+In dieser Woche hatte ich keine Modul fragen weshalb ich nicht daran arbeiten musste. Mit meiner Gruppe habe ich das Programmierprojekt Mängelrüge besser angeschaut und dann auch angefangen Lösungswege für das Programmieren zu suchen. Ich habe die Idee mit den WinForms aufgenommen und plane nun damit das Projekt zu machen. 
+Ich habe zudem eine Zusammenfassung über den Termin mit Frau Klink heute geschrieben. Die weiteren Schritte für das Programmierprojekt konnte ich gut planen. 
+Ich habe eine HTML und CSS Website erstellt und mich ein bisschen mit den Funktionen ausprobiert, da mich das Thema auch voll interessiert. 
+Mit WinForm habe ich nun Angefnagen ein paar Funktionen auszuprobieren und ich hoffe das ich das nächste Woche besser in den Griff bekomme. (119 Wörter) 
+
+# Arbeitspakete für 17.10.2023 (DSZ) 
+- [ ] Mit WinForms Dateien einfügen udn Funktionen testen. ( Vocis abfragen)
+- [ ] Programmierprojekt Mängelrüge mit Gruppe weiter besprechen und vorgehen planen/ausführen
+- [ ] Modul fragen klären (falls es fragen gäbe)
+
