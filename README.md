@@ -49,8 +49,17 @@ Ich habe zudem eine Zusammenfassung über den Termin mit Frau Klink heute geschr
 Ich habe eine HTML und CSS Website erstellt und mich ein bisschen mit den Funktionen ausprobiert, da mich das Thema auch voll interessiert. 
 Mit WinForm habe ich nun Angefnagen ein paar Funktionen auszuprobieren und ich hoffe das ich das nächste Woche besser in den Griff bekomme. (119 Wörter) 
 
-# Arbeitspakete für 17.10.2023 (DSZ) 
+# Arbeitspakete für 17.11.2023 (DSZ) 
 - [ ] Mit WinForms Dateien einfügen udn Funktionen testen. ( Vocis abfragen)
-- [ ] Programmierprojekt Mängelrüge mit Gruppe weiter besprechen und vorgehen planen/ausführen
-- [ ] Modul fragen klären (falls es fragen gäbe)
+- [x] Programmierprojekt Mängelrüge mit Gruppe weiter besprechen und vorgehen planen/ausführen
+- [x] Modul fragen klären (falls es fragen gäbe)
+
+In dieser Woche (Distanzunterricht) Habe ich das Lernatelier für Modul fragen sowie für mein Programmierprojekt gebraucht. Ich habe die Aufträge 162_6807 und Auftrag 162_6808 von unserem Modul bearbeitet und viele Fragen dazu geklärt. Unser Thema basiert auf die Datenbanken und ich musst da nich vieles dazu repetieren. Zudem habe ich mit meinem Team das Projekt weiter angeschaut und wir sind recht viel weiter gekommen. Ich habe die FUnktion ein PDF auf einer Email zu senden erreicht und konnte dies in mein Projekt einfügen.
+Zudem habe ich mir Gedanken gemacht, wie ich mein WINForms Voci Projekt durchführen kann und habe die Schritte und die Funktionen von WINForms angeschaut. (107 Wörter) 
+
+# Arbeitspakete für 24.11.2023
+
+- [ ] WINforms Voci
+- [ ] Programmierprojekt Mängelrüge mit Gruppe (hoffentlich) abschliessen
+- [ ] Modul fragen klären (Aufgabe/repetition zu Datenbanken)  
 
