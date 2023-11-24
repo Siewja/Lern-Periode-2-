@@ -60,6 +60,14 @@ Zudem habe ich mir Gedanken gemacht, wie ich mein WINForms Voci Projekt durchfü
 # Arbeitspakete für 24.11.2023
 
 - [ ] WINforms Voci
-- [ ] Programmierprojekt Mängelrüge mit Gruppe (hoffentlich) abschliessen
-- [ ] Modul fragen klären (Aufgabe/repetition zu Datenbanken)  
+- [x] Programmierprojekt Mängelrüge mit Gruppe (hoffentlich) abschliessen
+- [x] Modul fragen klären (Aufgabe/repetition zu Datenbanken)
 
+In dieser Woche habe ich meine ganze Zeit in das Modul 162 und in das Programmierprojekt investiert. In der Gruppe haben wir das Programmierprojekt fertiggebracht, wir haben noch ein paar kleine Verbesserung und die Reflexion vor uns aber der Rest haben wir geschafft. Im Modul 162 habe ich mein Portfolio angefangen und Aufgaben zu Enitäten und Attributen gelöst, damit ich das Thema Datenbanken besser verstehe. (64 Wörter) 
+
+# Arbeitspakete für 1.12.2023
+
+- [ ] WinForms Voci (zum Lernen) erstellen
+- [ ] Modul 162 Datenbank lernen für Test
+- [ ] Portfolio Modul 162
+      
