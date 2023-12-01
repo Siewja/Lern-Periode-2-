@@ -65,9 +65,18 @@ Zudem habe ich mir Gedanken gemacht, wie ich mein WINForms Voci Projekt durchfü
 
 In dieser Woche habe ich meine ganze Zeit in das Modul 162 und in das Programmierprojekt investiert. In der Gruppe haben wir das Programmierprojekt fertiggebracht, wir haben noch ein paar kleine Verbesserung und die Reflexion vor uns aber der Rest haben wir geschafft. Im Modul 162 habe ich mein Portfolio angefangen und Aufgaben zu Enitäten und Attributen gelöst, damit ich das Thema Datenbanken besser verstehe. (64 Wörter) 
 
-# Arbeitspakete für 1.12.2023
+# Arbeitspakete für 1.12.2023 (OL) 
 
 - [ ] WinForms Voci (zum Lernen) erstellen
-- [ ] Modul 162 Datenbank lernen für Test
-- [ ] Portfolio Modul 162
+- [x] Modul 162 Datenbank lernen für Test
+- [x] Portfolio Modul 162
       
+In dieser Woche Online Unterricht habe ich an meine Portfolio Modul 162 gearbeitet. Zudem habe ich für unseren Datenbanken Test gelernt, welcher nächsten Mittwoch aufkommt. Beim AdventofCode habe ich das aller erste Rätsel Part 1 und Part 2 ausprobiert und danach mit dem bereitgestellten Code auf Teams überprüft. (52 Wörter) $
+
+# Arbeitspakete für 8.12.2023 (DZ)
+
+- [ ] Portfolio abschliessen Modul 162
+- [ ] Fragen Klären zu Modul 117
+- [ ] AdventCode
+      
+- [ ] AdventofCode
