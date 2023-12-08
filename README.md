@@ -75,8 +75,15 @@ In dieser Woche Online Unterricht habe ich an meine Portfolio Modul 162 gearbeit
 
 # Arbeitspakete für 8.12.2023 (DZ)
 
-- [ ] Portfolio abschliessen Modul 162
-- [ ] Fragen Klären zu Modul 117
-- [ ] AdventCode
+- [x] Portfolio abschliessen Modul 162
+- [x] Fragen Klären zu Modul 117
+- [x] AdventCode
       
+In dieser Woche habe ich mein Portfolio von Modul 162 fertiggestellt und allfällige Fragen von Modul 117 geklärt. Modul 117 ist sehr neu für mich weshalb ich sehr viel neues dazu lernen muss. Im Adventofcode habe ich mir Überlegt wie man die Aufgaben lösen kann und habe ein bisschen rumpribiert. ich habe nicht zu allen eine Lösung gefunden, jedoch werde ich noch die Lösungen von Reddit ausprobieren. 
+
+# Arbeitspakete für 15.12.2023
+
+- [ ] Fragen Modul 117 
+- [ ] Übungen Modul 117
 - [ ] AdventofCode
+- [ ] Winforms voci 
