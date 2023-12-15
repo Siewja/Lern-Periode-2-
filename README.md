@@ -86,4 +86,13 @@ In dieser Woche habe ich mein Portfolio von Modul 162 fertiggestellt und allfäl
 - [ ] Fragen Modul 117 
 - [ ] Übungen Modul 117
 - [ ] AdventofCode
-- [ ] Winforms voci 
+- [ ] Winforms voci
+
+In dieser Woche ist meine Planung komplett schiefgelaufen. Planungsmässig habe ich mir keine Zeit für das Modul 164 eingeplant, da ich nicht erwartet habe das dieses Thema so komplex wäre. Jedoch habe ich meine ganzen 3,3 Stunden für das Modul 164 investiert, die Zeit ging schneller voran als gedacht. Zuerst habe ich mir den SQL Microsoft Server heruntergeladen und habe mir dan sehr viele Tutoriols angeschaut zu verschiedenen Themen wie man die DBMS benutzt. Darunter waren Themen wie Datenbanken erstellen, Auslesen, Updaten, Löschen und verschiedene Datentypen wie und wo einzusetzen. Ich glaube dieses Thema ist sehr wichtig, weshalb ich diese Zeit nun nicht als «Verchwendet» ansehe. Ich habe sehr vieles gelernt und hoffe das ich diese Infos nächste Woche nutzen kann. Denn letzte Woche stand ich noch bei 0 und alles war Bahnhof, nun verstehe ich die Grundlegensten Sachen. (139 Wörter) 
+
+# Arbeitspakete für 22.12.2023 (OPL) 
+
+- [ ] Wenn Fragen vorhanden: Modul 164 übungen / fragen klären 
+- [ ] Übungen Modul 117 (Netzinfrastruktur)
+
+
