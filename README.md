@@ -95,4 +95,6 @@ In dieser Woche ist meine Planung komplett schiefgelaufen. Planungsmässig habe 
 - [ ] Wenn Fragen vorhanden: Modul 164 übungen / fragen klären 
 - [ ] Übungen Modul 117 (Netzinfrastruktur)
 
-
+# Reflexion
+In Dieser Lernperiode konnte ich vieles C# und Datenbanken Lernen, wie man SQL verwendet und eine vielfalt an SQL Befehlen. Ich hatte zwar erst einwenig mühe die Befehle zu lernen und zu Verstehen, doch mit viel Arbeit konnte ich mir diese Merken und weiss nun wofür ich diese brauche.
+Das Mängelrügen Projekt war aufwendig, hat mir jedoch spass bereitet.
